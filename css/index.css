@@ -64,7 +64,7 @@ align-items: center;}
     font-size: 20px;
     transition: .5s;
 }
-.kotak .tombol .kiri button:focus,.kotak .tombol button:hover{
+.kotak .tombol button:hover{
     background-color: rgb(156, 156, 156);
 }
 .svg-cover svg{width: 100%;vertical-align: unset;height: 100%;}
